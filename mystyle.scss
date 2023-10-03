@@ -1,0 +1,15 @@
+@use "./Styles/global";
+//header
+@use "./Styles/components/header";
+
+
+@use "./Styles/sections/section-about-me";
+@use "./Styles/sections/section-home";
+@use "./Styles/sections/section-contact";
+@use "./Styles/sections/section-projects";
+
+//footer
+@use "./Styles/components/footer";
+
+//responsive style
+@use "./Styles/mobile";
